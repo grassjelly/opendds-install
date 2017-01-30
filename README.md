@@ -11,3 +11,4 @@ Supported Platforms:
 - Code Generation Part1: https://www.ociweb.com/resources/publications/mnb/code-generation-with-opendds-part-i/
 - Code Generation Part2: https://www.ociweb.com/resources/publications/mnb/code-generation-with-opendds-part-ii/
 - OpenDDS and NodeJS: https://iotprotocols.wordpress.com/tag/opendds/
+- OpenDDS Sample App: http://www.wteam.it/index.php/articles/9-article/15-first-opendds-program
