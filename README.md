@@ -10,3 +10,4 @@ Supported Platforms:
 - Developer's Guide: http://download.ociweb.com/OpenDDS/OpenDDS-latest.pdf
 - Code Generation Part1: https://www.ociweb.com/resources/publications/mnb/code-generation-with-opendds-part-i/
 - Code Generation Part2: https://www.ociweb.com/resources/publications/mnb/code-generation-with-opendds-part-ii/
+- OpenDDS and NodeJS: https://iotprotocols.wordpress.com/tag/opendds/
