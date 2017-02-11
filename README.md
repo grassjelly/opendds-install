@@ -12,3 +12,4 @@ Supported Platforms:
 - Code Generation Part2: https://www.ociweb.com/resources/publications/mnb/code-generation-with-opendds-part-ii/
 - OpenDDS and NodeJS: https://iotprotocols.wordpress.com/tag/opendds/
 - OpenDDS Sample App: http://www.wteam.it/index.php/articles/9-article/15-first-opendds-program
+- What's DDS: http://www.slideshare.net/Angelo.Corsaro/getting-started-with-dds-in-c-java-and-scala
