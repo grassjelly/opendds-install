@@ -1,6 +1,8 @@
 ###Installation
-Installation files for OpenDDS on a NeoPI NEO
+Installation files for OpenDDS on a x86_64 Linux machine
 
-    ```sh
-    $ ./install.sh
-    ```
+1. Install
+
+  ```sh
+  $ ./install.sh
+  ```
