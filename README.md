@@ -1,8 +1,9 @@
 ###Installation
 Installation files for OpenDDS
 
-Supported Platforms:
+Tested Platforms:
 - NanoPI NEO
+- Beaglebone Black
 
 ###Useful Links
 - Installation: https://raw.githubusercontent.com/grassjelly/OpenDDS/master/INSTALL
