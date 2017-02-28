@@ -8,3 +8,5 @@ cd OpenDDS
 ./configure --prefix=build
 make
 make install
+
+echo "Installation Done!"
